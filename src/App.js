@@ -14,7 +14,10 @@ function App() {
         Phase
       </pre>
       <div>
-        <img src="https://www.cuelogic.com/wp-content/uploads/2020/12/Reactjs-lifecycle-components-1.png" />
+        <img
+          src="https://www.cuelogic.com/wp-content/uploads/2020/12/Reactjs-lifecycle-components-1.png"
+          alt="react-lifecycle"
+        />
       </div>
       <strong>Initialization Phase</strong>:In this phase we initialise all the
       state variable and all the props which your component might be receiving
